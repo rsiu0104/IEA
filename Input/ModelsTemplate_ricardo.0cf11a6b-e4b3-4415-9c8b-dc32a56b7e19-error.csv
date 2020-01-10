@@ -1,0 +1,155 @@
+# Is used to indicate the line is a comment. ,
+# Required fields are indicated by an asterisk *.,
+# Operation and Object must always be the first and second columns respectively.,
+# The CHECK operation returns a result of MATCH or BEST MATCH followed by Make and Model for each line.,
+,
+#Operation *,Object *,Make *,Model Name *,Errors and Warnings
+CHECK,MODEL,No,3 Modem,"No has no matched make;"
+CHECK,MODEL,No,ATS,"No has no matched make;"
+CHECK,MODEL,Symantec,Backup Server (Symantec Backup Exec),"Backup Server (Symantec Backup Exec) has the best match with model: Symantec Backup Exec 3600;"
+CHECK,MODEL,HP,BL460c Gen9,"BL460c Gen9 has the best match with model: HP Blade BL460c Gen9;"
+CHECK,MODEL,Brocade,Brocade 7840 FCIP Switch,"Brocade 7840 FCIP Switch has the best match with model: Brocade Blade Brocade FI SX Switch Fabric;"
+CHECK,MODEL,Brocade,Brocade 7840 FCIP Switch,"Brocade 7840 FCIP Switch has the best match with model: Brocade Blade Brocade FI SX Switch Fabric;"
+CHECK,MODEL,Brocade,Brocade 7840 FCIP Switch,"Brocade 7840 FCIP Switch has the best match with model: Brocade Blade Brocade FI SX Switch Fabric;"
+CHECK,MODEL,Checkpoint,CheckPoint 12200,"CheckPoint 12200 has no matched model;"
+CHECK,MODEL,Checkpoint,Checkpoint 23800,"Checkpoint 23800 has no matched model;"
+CHECK,MODEL,Checkpoint,Checkpoint 5800,"Checkpoint 5800 has no matched model;"
+CHECK,MODEL,Checkpoint,CheckPoint CPAP-SG2073,"CheckPoint CPAP-SG2073 has the best match with model: Checkpoint CheckPoint CPAP-SG4800-NGTP (U-48NT);"
+CHECK,MODEL,Checkpoint,CheckPoint UTM-1 2070,"CheckPoint UTM-1 2070 has no matched model;"
+CHECK,MODEL,Cisco Systems,Cisco 1800,"Cisco 1800 has the best match with model: Cisco Systems SCE8000;"
+CHECK,MODEL,Cisco Systems,CiSco 1900,"CiSco 1900 has the best match with model: Cisco Systems Cisco C3900-SPE150;"
+CHECK,MODEL,Cisco Systems,Cisco 2960XR-24T,"Cisco 2960XR-24T has no matched model;"
+CHECK,MODEL,Cisco Systems,Cisco 2960XR-24T,"Cisco 2960XR-24T has no matched model;"
+CHECK,MODEL,Cisco Systems,CISCO 3900 SERIES,"CISCO 3900 SERIES has no matched model;"
+CHECK,MODEL,Cisco Systems,Cisco 4451,"Cisco 4451 has no matched model;"
+CHECK,MODEL,Cisco Systems,CISCO 5508,"CISCO 5508 has no matched model;"
+CHECK,MODEL,Cisco Systems,Cisco 5520 Wireless Controller,"Cisco 5520 Wireless Controller has the best match with model: Cisco Systems 5520 Wireless Controller;"
+CHECK,MODEL,Cisco Systems,Cisco ACI Spine Switch,"Cisco ACI Spine Switch has no matched model;"
+CHECK,MODEL,Cisco Systems,Cisco APIC-M2,"Cisco APIC-M2 has the best match with model: Cisco Systems Cisco APIC-M3;"
+CHECK,MODEL,Cisco Systems,Cisco ASA 5545-X ,"Cisco ASA 5545-X  has the best match with model: Cisco Systems ASA 5545-X;"
+CHECK,MODEL,Cisco Systems,Cisco ASA 5585-x,"Cisco ASA 5585-x has the best match with model: Cisco Systems ASA 5555-X;"
+CHECK,MODEL,Cisco Systems,Cisco ASR 1001-X Router,"Cisco ASR 1001-X Router has the best match with model: Cisco Systems Router ASR1001-X;"
+CHECK,MODEL,Cisco Systems,Cisco ASR-9904,"Cisco ASR-9904 has no matched model;"
+CHECK,MODEL,Cisco Systems,Cisco C240 M4,"Cisco C240 M4 has no matched model;"
+CHECK,MODEL,Cisco Systems,Cisco C2951,"Cisco C2951 has no matched model;"
+CHECK,MODEL,Cisco Systems,Cisco C3KX,"Cisco C3KX has no matched model;"
+CHECK,MODEL,Cisco Systems,Cisco Nexus 2248TP,"Cisco Nexus 2248TP has the best match with model: Cisco Systems NEXUS 2248TP-E;"
+CHECK,MODEL,Cisco Systems,Cisco NEXUS 5596UP,"Cisco NEXUS 5596UP has the best match with model: Cisco Systems Nexus N5K-C5596UP;"
+CHECK,MODEL,Cisco Systems,Cisco Nexus 93180YC-EX Switch,"Cisco Nexus 93180YC-EX Switch has the best match with model: Cisco Systems Nexus 93180YC-EX;"
+CHECK,MODEL,No,Convertor,"No has no matched make;"
+CHECK,MODEL,No,CSD GRAF Test / Standby Server,"No has no matched make;"
+CHECK,MODEL,Dell,DELL Power Edge R-720,"DELL Power Edge R-720 has the best match with model: Dell PowerEdge 1900 Tower Server;"
+CHECK,MODEL,HP,DL360 G8,"DL360 G8 has no matched model;"
+CHECK,MODEL,IBM,ESERVER XSERIES 330,"ESERVER XSERIES 330 has the best match with model: IBM eServer 330;"
+CHECK,MODEL,IBM,ESERVER XSERIES 335,"ESERVER XSERIES 335 has the best match with model: IBM eServer 330;"
+CHECK,MODEL,IBM,ESERVER XSERIES 346,"ESERVER XSERIES 346 has the best match with model: IBM eServer x206;"
+CHECK,MODEL,F5 Networks,F5 F5600,"F5 F5600 has no matched model;"
+CHECK,MODEL,F5 Networks,F5 VIPRION B2150,"F5 VIPRION B2150 has the best match with model: F5 Networks Blade VIPRION B2250;"
+CHECK,MODEL,F5 Networks,F5 VIPRION B2150,"F5 VIPRION B2150 has the best match with model: F5 Networks Blade VIPRION B2250;"
+CHECK,MODEL,F5 Networks,F5 VIPRION B2150,"F5 VIPRION B2150 has the best match with model: F5 Networks Blade VIPRION B2250;"
+CHECK,MODEL,F5 Networks,F5 VIPRION B2150,"F5 VIPRION B2150 has the best match with model: F5 Networks Blade VIPRION B2250;"
+CHECK,MODEL,F5 Networks,F5 VIPRION B2150,"F5 VIPRION B2150 has the best match with model: F5 Networks Blade VIPRION B2250;"
+CHECK,MODEL,F5 Networks,F5 VIPRION C2400,"F5 VIPRION C2400 has the best match with model: F5 Networks VIPRION C2200;"
+CHECK,MODEL,F5 Networks,F5 VIPRION C2400,"F5 VIPRION C2400 has the best match with model: F5 Networks VIPRION C2200;"
+CHECK,MODEL,Hitachi,Hitachi Disk Chassis,"Hitachi Disk Chassis has no matched model;"
+CHECK,MODEL,Hitachi,Hitachi Disk Chassis,"Hitachi Disk Chassis has no matched model;"
+CHECK,MODEL,Hitachi,Hitachi Disk Chassis,"Hitachi Disk Chassis has no matched model;"
+CHECK,MODEL,Hitachi,Hitachi G400 Storage,"Hitachi G400 Storage has no matched model;"
+CHECK,MODEL,Hitachi,Hitachi G400 Storage,"Hitachi G400 Storage has no matched model;"
+CHECK,MODEL,HP,HP BLADE C7000,"HP BLADE C7000 has the best match with model: HP Blade bc1500;"
+CHECK,MODEL,HP,HP ML310,"HP ML310 has no matched model;"
+CHECK,MODEL,HP,HP ML370,"HP ML370 has no matched model;"
+CHECK,MODEL,HP,HP Monitor,"HP Monitor has the best match with model: HP V50 Monitor;"
+CHECK,MODEL,HP,HP PC,"HP PC matches the model: HP HP PC;"
+CHECK,MODEL,Huawei,Huawai ATN910C,"Huawai ATN910C has the best match with model: Huawei Huawei ATN910i;"
+CHECK,MODEL,Huawei,Huawai OPPIX OSM500 ,"Huawai OPPIX OSM500 has no matched model;"
+CHECK,MODEL,Huawei,Huawai OPPIX OSM500 power supply,"Huawai OPPIX OSM500 power supply has no matched model;"
+CHECK,MODEL,Huawei,Huewai echolife HG8040H,"Huewai echolife HG8040H has no matched model;"
+CHECK,MODEL,IBM,IBM SYSTEM X3650 (7979),"IBM SYSTEM X3650 (7979) has the best match with model: IBM System x3650;"
+CHECK,MODEL,Cisco Systems,N2K-C2348TQ,"N2K-C2348TQ has the best match with model: Cisco Systems Nexus N2K-C2348UPQ;"
+CHECK,MODEL,Cisco Systems,N2K-C2348TQ,"N2K-C2348TQ has the best match with model: Cisco Systems Nexus N2K-C2348UPQ;"
+CHECK,MODEL,Cisco Systems,N2K-C2348UPQ,"N2K-C2348UPQ has the best match with model: Cisco Systems Nexus N2K-C2348UPQ;"
+CHECK,MODEL,Cisco Systems,N2K-C2348UPQ,"N2K-C2348UPQ has the best match with model: Cisco Systems Nexus N2K-C2348UPQ;"
+CHECK,MODEL,Cisco Systems,N2K-C2348UPQ,"N2K-C2348UPQ has the best match with model: Cisco Systems Nexus N2K-C2348UPQ;"
+CHECK,MODEL,Cisco Systems,N2K-C2348UPQ,"N2K-C2348UPQ has the best match with model: Cisco Systems Nexus N2K-C2348UPQ;"
+CHECK,MODEL,Cisco Systems,N9K-C9336C-FX2,"N9K-C9336C-FX2 has the best match with model: Cisco Systems Nexus 9336C-FX2 (N9K-C9336C-FX2);"
+CHECK,MODEL,Nokia,Nokia intertek 4009204,"Nokia intertek 4009204 has no matched model;"
+CHECK,MODEL,Oracle,Oracle RAC Server Node 1 (CXIP ODS),"Oracle RAC Server Node 1 (CXIP ODS) has no matched model;"
+CHECK,MODEL,Oracle,"Oracle RAC Server Node 2 (CXIP ODS)
+","Oracle RAC Server Node 2 (CXIP ODS) has no matched model;"
+CHECK,MODEL,Oracle,Oracle RAC Server Node 3 (CXIP ODS),"Oracle RAC Server Node 3 (CXIP ODS) has no matched model;"
+CHECK,MODEL,No,PC HQ1,"No has no matched make;"
+CHECK,MODEL,No,PC HQ2,"No has no matched make;"
+CHECK,MODEL,Peplink,peplink balance2500,"peplink balance2500 has no matched model;"
+CHECK,MODEL,HP,ProLiant BL460c G8,"ProLiant BL460c G8 has the best match with model: HP Proliant BL460c;"
+CHECK,MODEL,HP,ProLiant DL380 G5,"Proliant DL380 G5 matches the model: HP Proliant DL380 G5;"
+CHECK,MODEL,HP,ProLiant ML370 G5,"Proliant ML370 G5 matches the model: HP Proliant ML370 G5;"
+CHECK,MODEL,Raritan,raitan rax700(1),"raitan rax700(1) has no matched model;"
+CHECK,MODEL,Raritan,raitan rax700(2),"raitan rax700(2) has no matched model;"
+CHECK,MODEL,Raritan,raitan rax700(3),"raitan rax700(3) has no matched model;"
+CHECK,MODEL,Raritan,raitan rax700(4),"raitan rax700(4) has no matched model;"
+CHECK,MODEL,Cisco,SNS-3495-K9,"Cisco has no matched make;"
+CHECK,MODEL,No,Storage Node Server,"No has no matched make;"
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
